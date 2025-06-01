@@ -229,14 +229,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Original Taquin**: Inspired by the classic sliding puzzle game
 - **Contributors**: Thanks to all who have contributed to this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/taquin/issues) page
-2. Create a new issue with detailed information
-3. Include your platform, SDL2 version, and error messages
-
 ---
 
 **Enjoy playing Taquin! 🎮**
