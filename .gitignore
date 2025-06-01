@@ -1,0 +1,102 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+taquin
+taquin.exe
+
+# Build directories
+bin/
+obj/
+build/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Code::Blocks files
+*.cbp
+*.depend
+*.layout
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
+# Xcode files
+*.xcodeproj/
+*.xcworkspace/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Package files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Configuration files (if they contain sensitive data)
+config.ini
+settings.conf
+
+# Backup files
+*.bak
+*.backup
+
+# Distribution packages
+taquin-*-windows/
+taquin-*-linux/
+taquin-*-macos/
+*.zip
+*.tar.gz
